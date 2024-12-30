@@ -1,5 +1,3 @@
-# Hate_Detection_Model
-
 # Hate Speech Detection System  
 
 ## **Overview**  
